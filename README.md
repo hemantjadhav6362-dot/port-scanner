@@ -186,7 +186,7 @@ After the scan completes, the program generates a text file using the target IP 
 Example:
 
 ```text
-scan_192.168.8.142.txt
+scan_192.168.x.x.txt
 ```
 
 The report contains the open ports detected during the scan along with their associated service, category, and security hint.
